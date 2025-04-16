@@ -36,7 +36,7 @@ Soy un Diseñador Gráfico y Desarrollador Web de Panamá 🇵🇦 que también 
 ## 🌍 Encuéntrame en:
 - 🌐 [digitizepanama.com](https://tudominio.com)
 - 📸 [Instagram](https://instagram.com/digitizepanama)
-- 🐦 [Behance]([https://twitter.com/TU_USUARIO](https://www.behance.net/ejsm1623))
+- 🐦 [Behance] (https://www.behance.net/ejsm1623))
 - 💼 [LinkedIn](https://www.linkedin.com/in/esteban-samaniego-51298b287/)
 
 ---
