@@ -1,6 +1,6 @@
 # 👋 Hey, soy Tebs!
 
-Soy un Diseñador Gráfico y Desarrollador Web de Panamá 🇵🇦 que también le entra al contenido, la gestión de comunidad, y la creación de productos digitales. Actualmente estoy construyendo mi agencia digital: **[Digitize Panama](https://tudominio.com)**.
+Soy un Diseñador Gráfico y Desarrollador Web de Panamá 🇵🇦 que también le entra al contenido, la gestión de comunidad, y la creación de productos digitales. Actualmente estoy construyendo mi agencia digital: **[Digitize Panama]**.
 
 ![visitors](https://komarev.com/ghpvc/?username=TU_USUARIO&color=blueviolet&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores&style=social)](https://github.com/TU_USUARIO)
