@@ -27,8 +27,8 @@ Soy un Diseñador Gráfico y Desarrollador Web de Panamá 🇵🇦 que también 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide=contribs" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ejsm1623&show_icons=true&theme=radical&hide=contribs" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ejsm1623&layout=compact&theme=radical" height="160"/>
 </div>
 
 ---
