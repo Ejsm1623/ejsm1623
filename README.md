@@ -1,9 +1,9 @@
 # 👋 Hey, soy Tebs!
 
-Soy un Diseñador Gráfico y Desarrollador Web de Panamá 🇵🇦 que también le entra al contenido, la gestión de comunidad, y la creación de productos digitales. Actualmente estoy construyendo mi agencia digital: **[Digitize Panama]**.
+Soy un Diseñador Gráfico y Desarrollador Web de Panamá 🇵🇦 que también le entra al contenido, la gestión de comunidad, y la creación de productos digitales. Actualmente estoy construyendo mi agencia digital: **[Digitize Panama](https://digitizepanama.com)**.
 
 ![visitors](https://komarev.com/ghpvc/?username=Ejsm1623&color=blueviolet&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/Ejsm1623?label=Seguidores&style=social)](https://github.com/TU_USUARIO)
+[![GitHub followers](https://img.shields.io/github/followers/Ejsm1623?label=Seguidores&style=social)](https://github.com/Ejsm1623)
 
 ---
 
@@ -24,6 +24,13 @@ Soy un Diseñador Gráfico y Desarrollador Web de Panamá 🇵🇦 que también 
 
 ---
 
+## 💡 Qué me define
+- Creatividad enfocada en soluciones reales  
+- Comunicación visual efectiva  
+- Autodidacta con mentalidad de crecimiento  
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -34,10 +41,9 @@ Soy un Diseñador Gráfico y Desarrollador Web de Panamá 🇵🇦 que también 
 ---
 
 ## 🌍 Encuéntrame en:
-- 🌐 [digitizepanama.com](https://tudominio.com)
-- 📸 [Instagram](https://instagram.com/digitizepanama)
-- 🐦 [Behance] (https://www.behance.net/ejsm1623))
-- 💼 [LinkedIn](https://www.linkedin.com/in/esteban-samaniego-51298b287/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esteban_Samaniego-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esteban-samaniego-51298b287/)
+[![Instagram](https://img.shields.io/badge/Instagram-@digitizepanama-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/digitizepanama)
+[![Behance](https://img.shields.io/badge/Behance-@ejsm1623-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ejsm1623)
 
 ---
 
